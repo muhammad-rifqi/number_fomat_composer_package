@@ -1,0 +1,11 @@
+{
+    "name": "muhammad-rifqi/number_fomat_composer_package",
+    "description": "A function for number format package.",
+    "autoload": {
+        "psr-4": {
+            "MuhammadRifqi\\NumberFomatPackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
