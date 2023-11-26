@@ -1,6 +1,7 @@
 {
     "name": "muhammad-rifqi/number_fomat_composer_package",
     "description": "A function for number format package.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "MuhammadRifqi\\NumberFomatPackage\\": "src/"
